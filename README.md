@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bee :)
+- 👋 Hi, I’m Tori
 - 👀 I’m interested in learning to code!
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on nothing L + ratio
